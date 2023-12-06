@@ -1,8 +1,6 @@
 - SQL Workshop 1 - 
-[Workshop Colab 1 ](https://colab.research.google.com/drive/1yVPFAYgeOmE55WzHzv1u3bXSh2-Gaz_b?usp=sharing)
+[Workshop Colab 1 ](https://colab.research.google.com/drive/1xU42v0hlk1hpDil37IRwUMUsq0wE3i1V?usp=sharing)
 
-- SQL Exercise 1 - 
-[Exercise Colab 1 ](https://colab.research.google.com/drive/1vRNLKBSTABtYFa4Sx3B95i2s9tit48Y4?usp=sharing)
 
 <!---
 gwdataclub/gwdataclub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
